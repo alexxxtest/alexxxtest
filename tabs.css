@@ -24,6 +24,7 @@
     float:left;
     padding:7px 15px;
     color:#707070;
+    transition: all .3s ease-in-out;
 }
 .tabs ul li.active, .tabs ul li.active:hover{
     background:#0078D7;
