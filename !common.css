@@ -1,5 +1,0 @@
-﻿* { margin: 0; padding: 0; outline: none; }
-html { color: blue; height: 100%; }
-body { display: flex; flex-direction: column; height: 100%; }
-main { flex: 1; }
-footer { padding: 10px; background: #222; text-align: center; color: #ddd; }
