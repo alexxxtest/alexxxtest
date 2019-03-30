@@ -22,12 +22,13 @@
     cursor:pointer;
     display:block;
     float:left;
-    padding:10px 15px;
+    padding:7px 15px;
     color:#707070;
 }
 .tabs ul li.active, .tabs ul li.active:hover{
     background:#0078D7;
     color:#fff;
+    border-radius: 5px 5px 0 0;
 }
 .tabs ul li:hover{
     color:#000;
